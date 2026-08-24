@@ -64,20 +64,20 @@ const ME: CurrentFocus = CurrentFocus {
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=suradet-ps&repo=allerx&theme=transparent&bg_color=161b22&title_color=F74C00&text_color=c9d1d9&icon_color=F74C00&border_color=30363d&show_owner=false" width="400" alt="allerx"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=suradet-ps&repo=swift-bill&theme=transparent&bg_color=161b22&title_color=F74C00&text_color=c9d1d9&icon_color=F74C00&border_color=30363d&show_owner=false" width="400" alt="swift-bill"/></td>
+    <td align="center"><a href="https://github.com/suradet-ps/allerx"><img src="https://img.shields.io/badge/allerx-%E2%AD%90%20Featured-F74C00?style=for-the-badge&logo=rust&logoColor=white" alt="allerx"/></a></td>
+    <td align="center"><a href="https://github.com/suradet-ps/swift-bill"><img src="https://img.shields.io/badge/swift--bill-%E2%AD%90%20Featured-F74C00?style=for-the-badge&logo=rust&logoColor=white" alt="swift-bill"/></a></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=suradet-ps&repo=warfarin-care&theme=transparent&bg_color=161b22&title_color=F74C00&text_color=c9d1d9&icon_color=F74C00&border_color=30363d&show_owner=false" width="400" alt="warfarin-care"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=suradet-ps&repo=thai-nlem-api&theme=transparent&bg_color=161b22&title_color=F74C00&text_color=c9d1d9&icon_color=F74C00&border_color=30363d&show_owner=false" width="400" alt="thai-nlem-api"/></td>
+    <td align="center"><a href="https://github.com/suradet-ps/warfarin-care"><img src="https://img.shields.io/badge/warfarin--care-%E2%AD%90%20Featured-F74C00?style=for-the-badge&logo=rust&logoColor=white" alt="warfarin-care"/></a></td>
+    <td align="center"><a href="https://github.com/suradet-ps/thai-nlem-api"><img src="https://img.shields.io/badge/thai--nlem--api-%E2%AD%90%20Featured-F74C00?style=for-the-badge&logo=rust&logoColor=white" alt="thai-nlem-api"/></a></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=suradet-ps&repo=herbs-app&theme=transparent&bg_color=161b22&title_color=F74C00&text_color=c9d1d9&icon_color=F74C00&border_color=30363d&show_owner=false" width="400" alt="herbs-app"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=suradet-ps&repo=rxdevman&theme=transparent&bg_color=161b22&title_color=F74C00&text_color=c9d1d9&icon_color=F74C00&border_color=30363d&show_owner=false" width="400" alt="rxdevman"/></td>
+    <td align="center"><a href="https://github.com/suradet-ps/herbs-app"><img src="https://img.shields.io/badge/herbs--app-%E2%AD%90%20Featured-F74C00?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="herbs-app"/></a></td>
+    <td align="center"><a href="https://github.com/suradet-ps/rxdevman"><img src="https://img.shields.io/badge/rxdevman-%E2%AD%90%20Featured-F74C00?style=for-the-badge&logo=astro&logoColor=white" alt="rxdevman"/></a></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=suradet-ps&repo=vuer&theme=transparent&bg_color=161b22&title_color=F74C00&text_color=c9d1d9&icon_color=F74C00&border_color=30363d&show_owner=false" width="400" alt="vuer"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=suradet-ps&repo=agentforge-rs&theme=transparent&bg_color=161b22&title_color=F74C00&text_color=c9d1d9&icon_color=F74C00&border_color=30363d&show_owner=false" width="400" alt="agentforge-rs"/></td>
+    <td align="center"><a href="https://github.com/suradet-ps/vuer"><img src="https://img.shields.io/badge/vuer-%E2%AD%90%20Featured-F74C00?style=for-the-badge&logo=rust&logoColor=white" alt="vuer"/></a></td>
+    <td align="center"><a href="https://github.com/suradet-ps/agentforge-rs"><img src="https://img.shields.io/badge/agentforge--rs-%E2%AD%90%20Featured-F74C00?style=for-the-badge&logo=rust&logoColor=white" alt="agentforge-rs"/></a></td>
   </tr>
 </table>
 
