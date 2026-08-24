@@ -56,32 +56,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 ## 🧰 Projects
 
-*All 70 public repositories — grouped by category. ⭐ = featured.*
-
-### ⭐ Featured
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/suradet-ps/allerx"><img src="https://img.shields.io/badge/allerx-%E2%AD%90%20Featured-F74C00?style=for-the-badge&logo=rust&logoColor=white" alt="allerx"/></a></td>
-    <td align="center"><a href="https://github.com/suradet-ps/swift-bill"><img src="https://img.shields.io/badge/swift--bill-%E2%AD%90%20Featured-F74C00?style=for-the-badge&logo=rust&logoColor=white" alt="swift-bill"/></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/suradet-ps/warfarin-care"><img src="https://img.shields.io/badge/warfarin--care-%E2%AD%90%20Featured-F74C00?style=for-the-badge&logo=rust&logoColor=white" alt="warfarin-care"/></a></td>
-    <td align="center"><a href="https://github.com/suradet-ps/thai-nlem-api"><img src="https://img.shields.io/badge/thai--nlem--api-%E2%AD%90%20Featured-F74C00?style=for-the-badge&logo=rust&logoColor=white" alt="thai-nlem-api"/></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/suradet-ps/herbs-app"><img src="https://img.shields.io/badge/herbs--app-%E2%AD%90%20Featured-F74C00?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="herbs-app"/></a></td>
-    <td align="center"><a href="https://github.com/suradet-ps/rxdevman"><img src="https://img.shields.io/badge/rxdevman-%E2%AD%90%20Featured-F74C00?style=for-the-badge&logo=astro&logoColor=white" alt="rxdevman"/></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/suradet-ps/vuer"><img src="https://img.shields.io/badge/vuer-%E2%AD%90%20Featured-F74C00?style=for-the-badge&logo=rust&logoColor=white" alt="vuer"/></a></td>
-    <td align="center"><a href="https://github.com/suradet-ps/agentforge-rs"><img src="https://img.shields.io/badge/agentforge--rs-%E2%AD%90%20Featured-F74C00?style=for-the-badge&logo=rust&logoColor=white" alt="agentforge-rs"/></a></td>
-  </tr>
-</table>
-
-</div>
+*All 70 public repositories — grouped by category.*
 
 ### 🏥 Hospital Pharmacy · Desktop Apps
 
