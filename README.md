@@ -1,6 +1,6 @@
 <div align="center">
 
-# Suradet Pratomsak 🦀
+# Suradet Pratomsak
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&random=false&width=600&lines=Pharmacist+%2B+Rustacean;borrow+checker+is+my+best+friend;unsafe+%3F+not+in+my+codebase.)](https://github.com/pharmacist-sabot)
 
@@ -8,26 +8,26 @@
 
 ---
 
-## 🦀 About Me
+## About Me
 
 > *"In Rust we trust."*
 
 **Pharmacist by day. Rustacean by passion.**  
 I write safe, fast, concurrent code - and occasionally dispense medication.
 
-- 🏥 Hospital pharmacy meets systems programming
-- 🦀 **Rust is home** - ownership model clicks with my brain
-- 🌱 Also vibing with **Haskell** and functional paradigms
-- 💻 Building healthcare tools with **Vue.js** + a Rust backend someday
-- ⚡ The borrow checker has never been wrong. I have.
+- Hospital pharmacy meets systems programming
+- **Rust is home** - ownership model clicks with my brain
+- Also vibing with **Haskell** and functional paradigms
+- Building healthcare tools with **Vue.js** + a Rust backend someday
+- The borrow checker has never been wrong. I have.
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 ```toml
 [dependencies]
-primary    = "Rust 🦀"
+primary    = "Rust"
 frontend   = ["Vue.js", "Astro", "TypeScript"]
 styling    = ["TailwindCSS", "Pinia"]
 also_love  = ["Haskell"]
@@ -36,7 +36,7 @@ tools      = ["Vite", "Vercel", "Git"]
 
 ---
 
-## 🎯 Now
+## Now
 
 ```rust
 struct CurrentFocus {
@@ -54,11 +54,11 @@ const ME: CurrentFocus = CurrentFocus {
 
 ---
 
-## 🧰 Projects
+## Projects
 
 > A curated list of all 70 public repositories, grouped by category and sorted A-Z.
 
-### 🏥 Hospital Pharmacy · Desktop Apps
+### Hospital Pharmacy · Desktop Apps
 
 - [**allerx**](https://github.com/suradet-ps/allerx) - Check a patient's medication history against HOSxP before an allergy assessment. ![](https://img.shields.io/github/languages/top/suradet-ps/allerx?style=flat-square)
 - [**balance**](https://github.com/suradet-ps/balance) - Unify HOSxP and INVS into a single desktop dashboard. ![](https://img.shields.io/github/languages/top/suradet-ps/balance?style=flat-square)
@@ -72,7 +72,7 @@ const ME: CurrentFocus = CurrentFocus {
 - [**tb-plus**](https://github.com/suradet-ps/tb-plus) - Manage tuberculosis (TB) clinic operations. ![](https://img.shields.io/github/languages/top/suradet-ps/tb-plus?style=flat-square)
 - [**warfarin-care**](https://github.com/suradet-ps/warfarin-care) - Desktop app for managing a warfarin anticoagulation clinic. ![](https://img.shields.io/github/languages/top/suradet-ps/warfarin-care?style=flat-square)
 
-### 💊 Pharmacy Web Apps & Backend
+### Pharmacy Web Apps & Backend
 
 - [**drug-cup-online**](https://github.com/suradet-ps/drug-cup-online) - Web-based drug requisition system with role-based access and approval workflow. ![](https://img.shields.io/github/languages/top/suradet-ps/drug-cup-online?style=flat-square)
 - [**drug-loan-app**](https://github.com/suradet-ps/drug-loan-app) - Real-time management of inter-hospital drug loans. ![](https://img.shields.io/github/languages/top/suradet-ps/drug-loan-app?style=flat-square)
@@ -87,14 +87,14 @@ const ME: CurrentFocus = CurrentFocus {
 - [**thai-nlem-api**](https://github.com/suradet-ps/thai-nlem-api) - REST API for Thailand's National List of Essential Medicines (NLEM). ![](https://img.shields.io/github/languages/top/suradet-ps/thai-nlem-api?style=flat-square)
 - [**thai-nlem-webapp**](https://github.com/suradet-ps/thai-nlem-webapp) - Fast web frontend for searching Thailand's National List of Essential Medicines. ![](https://img.shields.io/github/languages/top/suradet-ps/thai-nlem-webapp?style=flat-square)
 
-### 🌿 Herbal Medicine
+### Herbal Medicine
 
 - [**herb-lytics**](https://github.com/suradet-ps/herb-lytics) - Analytics dashboard for herbal medicine procurement value. ![](https://img.shields.io/github/languages/top/suradet-ps/herb-lytics?style=flat-square)
 - [**herbs-app**](https://github.com/suradet-ps/herbs-app) - Browse, search, and view NHSO-supported herbal medicines. ![](https://img.shields.io/github/languages/top/suradet-ps/herbs-app?style=flat-square)
 - [**promote-herbs-app**](https://github.com/suradet-ps/promote-herbs-app) - Landing page introducing the Thai Herbal Formulary App. ![](https://img.shields.io/github/languages/top/suradet-ps/promote-herbs-app?style=flat-square)
 - [**rust-herb**](https://github.com/suradet-ps/rust-herb) - High-performance herbs browser rebuilt with Rust. ![](https://img.shields.io/github/languages/top/suradet-ps/rust-herb?style=flat-square)
 
-### 🧮 Clinical Calculators
+### Clinical Calculators
 
 - [**adr-timeline**](https://github.com/suradet-ps/adr-timeline) - Visualize drug exposure & adverse drug reaction timelines. ![](https://img.shields.io/github/languages/top/suradet-ps/adr-timeline?style=flat-square)
 - [**favi-child**](https://github.com/suradet-ps/favi-child) - Convert a child's weight into a day-by-day Favipiravir suspension prep plan. ![](https://img.shields.io/github/languages/top/suradet-ps/favi-child?style=flat-square)
@@ -104,7 +104,7 @@ const ME: CurrentFocus = CurrentFocus {
 - [**warfarin-app**](https://github.com/suradet-ps/warfarin-app) - Calculate complex Warfarin dosage regimens. ![](https://img.shields.io/github/languages/top/suradet-ps/warfarin-app?style=flat-square)
 - [**warfarin-cal-basic**](https://github.com/suradet-ps/warfarin-cal-basic) - Basic Warfarin dose calculator. ![](https://img.shields.io/github/languages/top/suradet-ps/warfarin-cal-basic?style=flat-square)
 
-### 🦀 Rust Tools & Libraries
+### Rust Tools & Libraries
 
 - [**agentforge-rs**](https://github.com/suradet-ps/agentforge-rs) - Cargo subcommand bootstrapping AI-ready Rust projects with AGENTS-RUST.md. ![](https://img.shields.io/github/languages/top/suradet-ps/agentforge-rs?style=flat-square)
 - [**codeframe**](https://github.com/suradet-ps/codeframe) - Convert source code into high-resolution PNG images. ![](https://img.shields.io/github/languages/top/suradet-ps/codeframe?style=flat-square)
@@ -121,7 +121,7 @@ const ME: CurrentFocus = CurrentFocus {
 - [**ultralearn**](https://github.com/suradet-ps/ultralearn) - Build structured learning plans grounded in the 9 Ultralearning principles. ![](https://img.shields.io/github/languages/top/suradet-ps/ultralearn?style=flat-square)
 - [**vuer**](https://github.com/suradet-ps/vuer) - Security-focused, AST-based static analyser for Vue.js Single File Components. ![](https://img.shields.io/github/languages/top/suradet-ps/vuer?style=flat-square)
 
-### 📚 Learning, Writing & Lists
+### Learning, Writing & Lists
 
 - [**agents-md**](https://github.com/suradet-ps/agents-md) - A collection of AI Operating Contracts. ![](https://img.shields.io/github/languages/top/suradet-ps/agents-md?style=flat-square)
 - [**ai-workshop-slides**](https://github.com/suradet-ps/ai-workshop-slides) - สไลด์โครงการ AI-Powered Pharmacist Workshop. ![](https://img.shields.io/github/languages/top/suradet-ps/ai-workshop-slides?style=flat-square)
@@ -134,19 +134,19 @@ const ME: CurrentFocus = CurrentFocus {
 - [**rxdevman**](https://github.com/suradet-ps/rxdevman) - Ever-growing knowledge base for modern software development. ![](https://img.shields.io/github/languages/top/suradet-ps/rxdevman?style=flat-square)
 - [**vuefolio-projects**](https://github.com/suradet-ps/vuefolio-projects) - Curated list of Vue.js portfolio projects built by developers. ![](https://img.shields.io/github/languages/top/suradet-ps/vuefolio-projects?style=flat-square)
 
-### 🧩 Starter Templates
+### Starter Templates
 
 - [**vue-bun-starter**](https://github.com/suradet-ps/vue-bun-starter) - Professional-grade starter for scalable Vue 3 + Bun applications. ![](https://img.shields.io/github/languages/top/suradet-ps/vue-bun-starter?style=flat-square)
 - [**vue-starter**](https://github.com/suradet-ps/vue-starter) - Opinionated, production-ready starter template for Vue 3 applications. ![](https://img.shields.io/github/languages/top/suradet-ps/vue-starter?style=flat-square)
 
-### ✨ Showcase & Misc
+### Showcase & Misc
 
 - [**config-parser-mini-tool**](https://github.com/suradet-ps/config-parser-mini-tool) - Mini config parser - Rust variables & mutability practice. ![](https://img.shields.io/github/languages/top/suradet-ps/config-parser-mini-tool?style=flat-square)
 - [**detrix**](https://github.com/suradet-ps/detrix) - Dynamic portfolio showcasing works, innovations, and speaker experiences. ![](https://img.shields.io/github/languages/top/suradet-ps/detrix?style=flat-square)
 - [**herbs-app-images**](https://github.com/suradet-ps/herbs-app-images) - Image assets for Herbs App. ![](https://img.shields.io/github/languages/top/suradet-ps/herbs-app-images?style=flat-square)
 - [**my-chat-app**](https://github.com/suradet-ps/my-chat-app) - Feature-rich, real-time chat application. ![](https://img.shields.io/github/languages/top/suradet-ps/my-chat-app?style=flat-square)
 
-### 🍴 Forks
+### Forks
 
 - [**awesome-rust**](https://github.com/suradet-ps/awesome-rust) - Fork of [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust). ![](https://img.shields.io/github/languages/top/suradet-ps/awesome-rust?style=flat-square)
 - [**rust-user-map**](https://github.com/suradet-ps/rust-user-map) - Fork of [Andrew-Velox/rust-user-map](https://github.com/Andrew-Velox/rust-user-map). ![](https://img.shields.io/github/languages/top/suradet-ps/rust-user-map?style=flat-square)
@@ -159,7 +159,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 <div align="center">
 
-### 🦀 *"Memory safe. Thread safe. Pill safe."*
+### *"Memory safe. Thread safe. Pill safe."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F74C00,B7410E&height=100&section=footer" width="100%"/>
 
