@@ -76,7 +76,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 - [**drug-cup-online**](https://github.com/suradet-ps/drug-cup-online) - Web-based drug requisition system with role-based access and approval workflow. ![](https://img.shields.io/github/languages/top/suradet-ps/drug-cup-online?style=flat-square)
 - [**drug-loan-app**](https://github.com/suradet-ps/drug-loan-app) - Real-time management of inter-hospital drug loans. ![](https://img.shields.io/github/languages/top/suradet-ps/drug-loan-app?style=flat-square)
-- [**drug-tracker-app**](https://github.com/suradet-ps/drug-tracker-app) - Pharmaceutical procurement workflow with CSV import, order tracking, and Telegram notifications. ![](https://img.shields.io/github/languages/top/suradet-ps/drug-tracker-app?style=flat-square)
+- [**tracker**](https://github.com/suradet-ps/tracker) - Pharmaceutical procurement workflow with CSV import, order tracking, and Telegram notifications. ![](https://img.shields.io/github/languages/top/suradet-ps/drug-tracker-app?style=flat-square)
 - [**dsap**](https://github.com/suradet-ps/dsap) - Hospital medication safety self-assessment based on 2022 standards. ![](https://img.shields.io/github/languages/top/suradet-ps/dsap?style=flat-square)
 - [**high-alert-drugs-app**](https://github.com/suradet-ps/high-alert-drugs-app) - Quick access to High-Alert Drugs information for healthcare professionals. ![](https://img.shields.io/github/languages/top/suradet-ps/high-alert-drugs-app?style=flat-square)
 - [**med-support-record-app**](https://github.com/suradet-ps/med-support-record-app) - Record medication support values with real-time saving. ![](https://img.shields.io/github/languages/top/suradet-ps/med-support-record-app?style=flat-square)
