@@ -56,7 +56,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 ## Projects
 
-> A curated list of all 70 public repositories, grouped by category and sorted A-Z.
+> A curated list of all 71 public repositories, grouped by category and sorted A-Z.
 
 ### Hospital Pharmacy · Desktop Apps
 
@@ -128,11 +128,15 @@ const ME: CurrentFocus = CurrentFocus {
 - [**awesome-warfarin**](https://github.com/suradet-ps/awesome-warfarin) - Curated open-source projects, research, and resources for Warfarin. ![](https://img.shields.io/github/languages/top/suradet-ps/awesome-warfarin?style=flat-square)
 - [**design.md**](https://github.com/suradet-ps/design.md) - Production-ready design system documentation. ![](https://img.shields.io/github/languages/top/suradet-ps/design.md?style=flat-square)
 - [**refactor-rs**](https://github.com/suradet-ps/refactor-rs) - Learn idiomatic Rust through interactive refactoring exercises. ![](https://img.shields.io/github/languages/top/suradet-ps/refactor-rs?style=flat-square)
-- [**rust-101-th**](https://github.com/suradet-ps/rust-101-th) - A tutorial for the Rust language (Thai version). ![](https://img.shields.io/github/languages/top/suradet-ps/rust-101-th?style=flat-square)
 - [**rust-problem-solving**](https://github.com/suradet-ps/rust-problem-solving) - คู่มือแก้ปัญหา Rust Programming ฉบับภาษาไทย. ![](https://img.shields.io/github/languages/top/suradet-ps/rust-problem-solving?style=flat-square)
 - [**rust-roadmap**](https://github.com/suradet-ps/rust-roadmap) - High-fidelity, type-safe visualization of the Rust learning path. ![](https://img.shields.io/github/languages/top/suradet-ps/rust-roadmap?style=flat-square)
 - [**rxdevman**](https://github.com/suradet-ps/rxdevman) - Ever-growing knowledge base for modern software development. ![](https://img.shields.io/github/languages/top/suradet-ps/rxdevman?style=flat-square)
 - [**vuefolio-projects**](https://github.com/suradet-ps/vuefolio-projects) - Curated list of Vue.js portfolio projects built by developers. ![](https://img.shields.io/github/languages/top/suradet-ps/vuefolio-projects?style=flat-square)
+
+### Translations
+
+- [**bisect-th**](https://github.com/suradet-ps/bisect-th) - Thai translation of the official cargo-bisect-rustc guide, built with mdbook. ![](https://img.shields.io/github/languages/top/suradet-ps/bisect-th?style=flat-square)
+- [**rust-101-th**](https://github.com/suradet-ps/rust-101-th) - A tutorial for the Rust language (Thai version). ![](https://img.shields.io/github/languages/top/suradet-ps/rust-101-th?style=flat-square)
 
 ### Starter Templates
 
