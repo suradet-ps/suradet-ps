@@ -56,7 +56,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 ## Projects
 
-> A curated list of all 71 public repositories, grouped by category and sorted A-Z.
+> A curated list of all 73 public repositories, grouped by category and sorted A-Z.
 
 ### Hospital Pharmacy · Desktop Apps
 
@@ -136,7 +136,9 @@ const ME: CurrentFocus = CurrentFocus {
 ### Translations
 
 - [**bisect-th**](https://github.com/suradet-ps/bisect-th) - Thai translation of the official cargo-bisect-rustc guide, built with mdbook. ![](https://img.shields.io/github/languages/top/suradet-ps/bisect-th?style=flat-square)
+- [**linked-lists-th**](https://github.com/suradet-ps/linked-lists-th) - Thai translation of Learning Rust With Entirely Too Many Linked Lists (58 pages), built with mdbook. ![](https://img.shields.io/github/languages/top/suradet-ps/linked-lists-th?style=flat-square)
 - [**rust-101-th**](https://github.com/suradet-ps/rust-101-th) - A tutorial for the Rust language (Thai version). ![](https://img.shields.io/github/languages/top/suradet-ps/rust-101-th?style=flat-square)
+- [**rust-web-th**](https://github.com/suradet-ps/rust-web-th) - Thai translation of the Bulletproof Rust Web guide (30 chapters), built with mdbook. ![](https://img.shields.io/github/languages/top/suradet-ps/rust-web-th?style=flat-square)
 
 ### Starter Templates
 
