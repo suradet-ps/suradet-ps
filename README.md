@@ -62,6 +62,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 - [**allerx**](https://github.com/suradet-ps/allerx) - Check a patient's medication history against HOSxP before an allergy assessment. ![](https://img.shields.io/github/languages/top/suradet-ps/allerx?style=flat-square)
 - [**balance**](https://github.com/suradet-ps/balance) - Unify HOSxP and INVS into a single desktop dashboard. ![](https://img.shields.io/github/languages/top/suradet-ps/balance?style=flat-square)
+- [**drugitems**](https://github.com/suradet-ps/drugitems) - Read-only desktop app verifying the MySQL drugitems table against an exported spreadsheet snapshot. ![](https://img.shields.io/github/languages/top/suradet-ps/drugitems?style=flat-square)
 - [**herbready**](https://github.com/suradet-ps/herbready) - Thai herbal medicine dispensing system for hospitals and clinics. ![](https://img.shields.io/github/languages/top/suradet-ps/herbready?style=flat-square)
 - [**hosxp-dash**](https://github.com/suradet-ps/hosxp-dash) - Monitor and visualize drug data directly from HOSxP database systems. ![](https://img.shields.io/github/languages/top/suradet-ps/hosxp-dash?style=flat-square)
 - [**invs-dash**](https://github.com/suradet-ps/invs-dash) - Analyze monthly drug purchase values from the INVS. ![](https://img.shields.io/github/languages/top/suradet-ps/invs-dash?style=flat-square)
