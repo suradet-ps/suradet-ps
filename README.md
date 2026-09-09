@@ -56,7 +56,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 ## Projects
 
-> A curated list of all 73 public repositories, grouped by category and sorted A-Z.
+> A curated list of all 74 public repositories, grouped by category and sorted A-Z.
 
 ### Hospital Pharmacy · Desktop Apps
 
@@ -156,9 +156,9 @@ const ME: CurrentFocus = CurrentFocus {
 ### Forks
 
 - [**awesome-rust**](https://github.com/suradet-ps/awesome-rust) - Fork of [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust). ![](https://img.shields.io/github/languages/top/suradet-ps/awesome-rust?style=flat-square)
+- [**RustBooks**](https://github.com/suradet-ps/RustBooks) - Fork of [sger/RustBooks](https://github.com/sger/RustBooks). ![](https://img.shields.io/github/languages/top/suradet-ps/RustBooks?style=flat-square)
 - [**rust-user-map**](https://github.com/suradet-ps/rust-user-map) - Fork of [Andrew-Velox/rust-user-map](https://github.com/Andrew-Velox/rust-user-map). ![](https://img.shields.io/github/languages/top/suradet-ps/rust-user-map?style=flat-square)
 - [**rust-web-framework-comparison**](https://github.com/suradet-ps/rust-web-framework-comparison) - Fork of [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison). ![](https://img.shields.io/github/languages/top/suradet-ps/rust-web-framework-comparison?style=flat-square)
-- [**RustBooks**](https://github.com/suradet-ps/RustBooks) - Fork of [sger/RustBooks](https://github.com/sger/RustBooks). ![](https://img.shields.io/github/languages/top/suradet-ps/RustBooks?style=flat-square)
 - [**start-trunk**](https://github.com/suradet-ps/start-trunk) - Fork of [leptos-rs/start-trunk](https://github.com/leptos-rs/start-trunk). ![](https://img.shields.io/github/languages/top/suradet-ps/start-trunk?style=flat-square)
 - [**this-week-in-rust**](https://github.com/suradet-ps/this-week-in-rust) - Fork of [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust). ![](https://img.shields.io/github/languages/top/suradet-ps/this-week-in-rust?style=flat-square)
 
