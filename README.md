@@ -56,7 +56,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 ## Projects
 
-> A curated list of all 75 public repositories, grouped by category and sorted A-Z.
+> A curated list of all 76 public repositories, grouped by category and sorted A-Z.
 
 ### Hospital Pharmacy · Desktop Apps
 
@@ -156,6 +156,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 ### Forks
 
+- [**awesome-leptos**](https://github.com/suradet-ps/awesome-leptos) - Fork of [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos). ![](https://img.shields.io/github/languages/top/suradet-ps/awesome-leptos?style=flat-square)
 - [**awesome-rust**](https://github.com/suradet-ps/awesome-rust) - Fork of [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust). ![](https://img.shields.io/github/languages/top/suradet-ps/awesome-rust?style=flat-square)
 - [**RustBooks**](https://github.com/suradet-ps/RustBooks) - Fork of [sger/RustBooks](https://github.com/sger/RustBooks). ![](https://img.shields.io/github/languages/top/suradet-ps/RustBooks?style=flat-square)
 - [**rust-user-map**](https://github.com/suradet-ps/rust-user-map) - Fork of [Andrew-Velox/rust-user-map](https://github.com/Andrew-Velox/rust-user-map). ![](https://img.shields.io/github/languages/top/suradet-ps/rust-user-map?style=flat-square)
