@@ -56,7 +56,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 ## Projects
 
-> A curated list of all 79 public repositories, grouped by category and sorted A-Z.
+> A curated list of all 80 public repositories, grouped by category and sorted A-Z.
 
 ### Hospital Pharmacy · Desktop Apps
 
@@ -104,6 +104,10 @@ const ME: CurrentFocus = CurrentFocus {
 - [**pedi-svelte**](https://github.com/suradet-ps/pedi-svelte) - Pediatric liquid medication dosage calculator. ![](https://img.shields.io/github/languages/top/suradet-ps/pedi-svelte?style=flat-square)
 - [**warfarin-app**](https://github.com/suradet-ps/warfarin-app) - Calculate complex Warfarin dosage regimens. ![](https://img.shields.io/github/languages/top/suradet-ps/warfarin-app?style=flat-square)
 - [**warfarin-cal-basic**](https://github.com/suradet-ps/warfarin-cal-basic) - Basic Warfarin dose calculator. ![](https://img.shields.io/github/languages/top/suradet-ps/warfarin-cal-basic?style=flat-square)
+
+### AI & Local LLM
+
+- [**cloud-sec**](https://github.com/suradet-ps/cloud-sec) - Local-first desktop assistant answering the Thai cloud cybersecurity standard with clause-cited answers. ![](https://img.shields.io/github/languages/top/suradet-ps/cloud-sec?style=flat-square)
 
 ### Rust Tools & Libraries
 
