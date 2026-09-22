@@ -56,7 +56,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 ## Projects
 
-> A curated list of all 82 public repositories, grouped by category and sorted A-Z.
+> A curated list of all 83 public repositories, grouped by category and sorted A-Z.
 
 ### Hospital Pharmacy · Desktop Apps
 
@@ -146,6 +146,7 @@ const ME: CurrentFocus = CurrentFocus {
 - [**patterns-th**](https://github.com/suradet-ps/patterns-th) - Thai translation of the official Rust Design Patterns book (50 pages), built with mdbook. ![](https://img.shields.io/github/languages/top/suradet-ps/patterns-th?style=flat-square)
 - [**perf-th**](https://github.com/suradet-ps/perf-th) - Thai translation of the official Rust Performance Book (20 chapters), built with mdbook. ![](https://img.shields.io/github/languages/top/suradet-ps/perf-th?style=flat-square)
 - [**proptest-th**](https://github.com/suradet-ps/proptest-th) - Thai translation of the official Proptest book (30 chapters), built with mdbook. ![](https://img.shields.io/github/languages/top/suradet-ps/proptest-th?style=flat-square)
+- [**rand-th**](https://github.com/suradet-ps/rand-th) - Thai translation of the official Rust Rand book (31 chapters), built with mdbook. ![](https://img.shields.io/github/languages/top/suradet-ps/rand-th?style=flat-square)
 - [**rust-101-th**](https://github.com/suradet-ps/rust-101-th) - A tutorial for the Rust language (Thai version). ![](https://img.shields.io/github/languages/top/suradet-ps/rust-101-th?style=flat-square)
 - [**rust-web-th**](https://github.com/suradet-ps/rust-web-th) - Thai translation of the Bulletproof Rust Web guide (30 chapters), built with mdbook. ![](https://img.shields.io/github/languages/top/suradet-ps/rust-web-th?style=flat-square)
 - [**rustbook-th**](https://github.com/suradet-ps/rustbook-th) - Thai translation of the official Rust book (21 chapters + 7 appendixes), built with mdbook. ![](https://img.shields.io/github/languages/top/suradet-ps/rustbook-th?style=flat-square)
