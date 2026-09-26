@@ -56,7 +56,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 ## Projects
 
-> A curated list of all 85 public repositories, grouped by category and sorted A-Z.
+> A curated list of all 86 public repositories, grouped by category and sorted A-Z.
 
 ### Hospital Pharmacy · Desktop Apps
 
@@ -70,6 +70,7 @@ const ME: CurrentFocus = CurrentFocus {
 - [**medsup-dash**](https://github.com/suradet-ps/medsup-dash) - Modern, high-performance dashboard for medical supply management. ![](https://img.shields.io/github/languages/top/suradet-ps/medsup-dash?style=flat-square)
 - [**one-pharm**](https://github.com/suradet-ps/one-pharm) - Drug inventory analytics for evaluating pharmacy stock efficiency. ![](https://img.shields.io/github/languages/top/suradet-ps/one-pharm?style=flat-square)
 - [**oscc**](https://github.com/suradet-ps/oscc) - One Stop Crisis Center case management for Thai hospitals: paperless intake, masked-by-default identity, append-only audit, and clinical deadline timers. ![](https://img.shields.io/github/languages/top/suradet-ps/oscc?style=flat-square)
+- [**panya**](https://github.com/suradet-ps/panya) - Read-only desktop app tracking whether INVS drug purchases follow the Thai fiscal-year purchase plan, quarter by quarter. ![](https://img.shields.io/github/languages/top/suradet-ps/panya?style=flat-square)
 - [**swift-bill**](https://github.com/suradet-ps/swift-bill) - Automate the generation of pharmaceutical disbursement reports for hospitals. ![](https://img.shields.io/github/languages/top/suradet-ps/swift-bill?style=flat-square)
 - [**tb-plus**](https://github.com/suradet-ps/tb-plus) - Manage tuberculosis (TB) clinic operations. ![](https://img.shields.io/github/languages/top/suradet-ps/tb-plus?style=flat-square)
 - [**warfarin-care**](https://github.com/suradet-ps/warfarin-care) - Desktop app for managing a warfarin anticoagulation clinic. ![](https://img.shields.io/github/languages/top/suradet-ps/warfarin-care?style=flat-square)
