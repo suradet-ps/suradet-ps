@@ -56,7 +56,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 ## Projects
 
-> A curated list of all 86 public repositories, grouped by category and sorted A-Z.
+> A curated list of all 87 public repositories, grouped by category and sorted A-Z.
 
 ### Hospital Pharmacy · Desktop Apps
 
@@ -176,6 +176,7 @@ const ME: CurrentFocus = CurrentFocus {
 - [**rust-web-framework-comparison**](https://github.com/suradet-ps/rust-web-framework-comparison) - Fork of [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison). ![](https://img.shields.io/github/languages/top/suradet-ps/rust-web-framework-comparison?style=flat-square)
 - [**start-trunk**](https://github.com/suradet-ps/start-trunk) - Fork of [leptos-rs/start-trunk](https://github.com/leptos-rs/start-trunk). ![](https://img.shields.io/github/languages/top/suradet-ps/start-trunk?style=flat-square)
 - [**this-week-in-rust**](https://github.com/suradet-ps/this-week-in-rust) - Fork of [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust). ![](https://img.shields.io/github/languages/top/suradet-ps/this-week-in-rust?style=flat-square)
+- [**weechat-matrix-rs**](https://github.com/suradet-ps/weechat-matrix-rs) - Fork of [poljar/weechat-matrix-rs](https://github.com/poljar/weechat-matrix-rs). ![](https://img.shields.io/github/languages/top/suradet-ps/weechat-matrix-rs?style=flat-square)
 
 ---
 
