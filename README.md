@@ -77,7 +77,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 ### Pharmacy Web Apps & Backend
 
-- [**drug-cup-online**](https://github.com/suradet-ps/drug-cup-online) - Web-based drug requisition system with role-based access and approval workflow. ![](https://img.shields.io/github/languages/top/suradet-ps/drug-cup-online?style=flat-square)
+- [**cupsabot**](https://github.com/suradet-ps/cupsabot) - Web-based drug requisition system with role-based access and approval workflow. ![](https://img.shields.io/github/languages/top/suradet-ps/cupsabot?style=flat-square)
 - [**drug-loan-app**](https://github.com/suradet-ps/drug-loan-app) - Real-time management of inter-hospital drug loans. ![](https://img.shields.io/github/languages/top/suradet-ps/drug-loan-app?style=flat-square)
 - [**druglists**](https://github.com/suradet-ps/druglists) - Progressive Web App for managing a hospital's drug formulary. ![](https://img.shields.io/github/languages/top/suradet-ps/druglists?style=flat-square)
 - [**dsap**](https://github.com/suradet-ps/dsap) - Hospital medication safety self-assessment based on 2022 standards. ![](https://img.shields.io/github/languages/top/suradet-ps/dsap?style=flat-square)
