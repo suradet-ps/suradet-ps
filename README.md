@@ -56,7 +56,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 ## Projects
 
-> A curated list of all 87 public repositories, grouped by category and sorted A-Z.
+> A curated list of all 88 public repositories, grouped by category and sorted A-Z.
 
 ### Hospital Pharmacy · Desktop Apps
 
@@ -166,6 +166,7 @@ const ME: CurrentFocus = CurrentFocus {
 - [**detrix**](https://github.com/suradet-ps/detrix) - Dynamic portfolio showcasing works, innovations, and speaker experiences. ![](https://img.shields.io/github/languages/top/suradet-ps/detrix?style=flat-square)
 - [**herbs-app-images**](https://github.com/suradet-ps/herbs-app-images) - Image assets for Herbs App. ![](https://img.shields.io/github/languages/top/suradet-ps/herbs-app-images?style=flat-square)
 - [**my-chat-app**](https://github.com/suradet-ps/my-chat-app) - Feature-rich, real-time chat application. ![](https://img.shields.io/github/languages/top/suradet-ps/my-chat-app?style=flat-square)
+- [**ptc-ha2026**](https://github.com/suradet-ps/ptc-ha2026) - Fifteen-minute presentation deck for the hospital's medication system against HA Standard 6 - one key message per slide. ![](https://img.shields.io/github/languages/top/suradet-ps/ptc-ha2026?style=flat-square)
 
 ### Forks
 
