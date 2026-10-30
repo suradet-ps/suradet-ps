@@ -2,7 +2,7 @@
 
 # Suradet Pratomsak
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&random=false&width=600&lines=Pharmacist+%2B+Rustacean;borrow+checker+is+my+best+friend;unsafe+%3F+not+in+my+codebase.)](https://github.com/pharmacist-sabot)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&random=false&width=600&lines=Pharmacist+%2B+Rustacean;borrow+checker+is+my+best+friend;unsafe+%3F+not+in+my+codebase.)](https://github.com/suradet-ps)
 
 </div>
 
@@ -18,7 +18,7 @@ I write safe, fast, concurrent code - and occasionally dispense medication.
 - Hospital pharmacy meets systems programming
 - **Rust is home** - ownership model clicks with my brain
 - Also vibing with **Haskell** and functional paradigms
-- Building healthcare tools with **Vue.js** + a Rust backend someday
+- Building healthcare tools with **Tauri 2 + Leptos**, and **Vue 3** for the web
 - The borrow checker has never been wrong. I have.
 
 ---
@@ -28,10 +28,11 @@ I write safe, fast, concurrent code - and occasionally dispense medication.
 ```toml
 [dependencies]
 primary    = "Rust"
-frontend   = ["Vue.js", "Astro", "TypeScript"]
+frontend   = ["Leptos", "Vue.js", "Astro", "TypeScript"]
+desktop    = ["Tauri 2", "Trunk"]
 styling    = ["TailwindCSS", "Pinia"]
 also_love  = ["Haskell"]
-tools      = ["Vite", "Vercel", "Git"]
+tools      = ["Cargo", "Vite", "Git", "Vercel"]
 ```
 
 ---
@@ -46,8 +47,8 @@ struct CurrentFocus {
 }
 
 const ME: CurrentFocus = CurrentFocus {
-    deep_dive: "Rust Systems Programming",
-    building:  "Healthcare Tools (Rust backend, someday)",
+    deep_dive: "Rust systems programming and Tauri 2",
+    building:  "Hospital pharmacy tools with Tauri 2 + Leptos",
     reading:   "The Rustonomicon",
 };
 ```
@@ -56,10 +57,11 @@ const ME: CurrentFocus = CurrentFocus {
 
 ## Projects
 
-> A curated list of all 91 public repositories, grouped by category and sorted A-Z.
+> A curated list of all 93 project repositories, grouped by category and sorted A-Z. The profile repository itself is not listed.
 
 ### Hospital Pharmacy · Desktop Apps
 
+- [**addict-order**](https://github.com/suradet-ps/addict-order) - Read-only HOSxP document builder for Thai Category 2 narcotic and psychotropic prescriptions (Tauri 2 + Leptos). ![](https://img.shields.io/github/languages/top/suradet-ps/addict-order?style=flat-square)
 - [**allerx**](https://github.com/suradet-ps/allerx) - Check a patient's medication history against HOSxP before an allergy assessment. ![](https://img.shields.io/github/languages/top/suradet-ps/allerx?style=flat-square)
 - [**balance**](https://github.com/suradet-ps/balance) - Unify HOSxP and INVS into a single desktop dashboard. ![](https://img.shields.io/github/languages/top/suradet-ps/balance?style=flat-square)
 - [**drugitems**](https://github.com/suradet-ps/drugitems) - Read-only desktop app verifying the MySQL drugitems table against an exported spreadsheet snapshot. ![](https://img.shields.io/github/languages/top/suradet-ps/drugitems?style=flat-square)
@@ -174,6 +176,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 - [**awesome-leptos**](https://github.com/suradet-ps/awesome-leptos) - Fork of [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos). ![](https://img.shields.io/github/languages/top/suradet-ps/awesome-leptos?style=flat-square)
 - [**awesome-rust**](https://github.com/suradet-ps/awesome-rust) - Fork of [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust). ![](https://img.shields.io/github/languages/top/suradet-ps/awesome-rust?style=flat-square)
+- [**ot-form**](https://github.com/suradet-ps/ot-form) - Fork of [achiraya-ar/ot-form](https://github.com/achiraya-ar/ot-form). ![](https://img.shields.io/github/languages/top/suradet-ps/ot-form?style=flat-square)
 - [**RustBooks**](https://github.com/suradet-ps/RustBooks) - Fork of [sger/RustBooks](https://github.com/sger/RustBooks). ![](https://img.shields.io/github/languages/top/suradet-ps/RustBooks?style=flat-square)
 - [**rust-user-map**](https://github.com/suradet-ps/rust-user-map) - Fork of [Andrew-Velox/rust-user-map](https://github.com/Andrew-Velox/rust-user-map). ![](https://img.shields.io/github/languages/top/suradet-ps/rust-user-map?style=flat-square)
 - [**rust-web-framework-comparison**](https://github.com/suradet-ps/rust-web-framework-comparison) - Fork of [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison). ![](https://img.shields.io/github/languages/top/suradet-ps/rust-web-framework-comparison?style=flat-square)
