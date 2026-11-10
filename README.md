@@ -57,13 +57,14 @@ const ME: CurrentFocus = CurrentFocus {
 
 ## Projects
 
-> A curated list of all 93 project repositories, grouped by category and sorted A-Z. The profile repository itself is not listed.
+> A curated list of all 94 project repositories, grouped by category and sorted A-Z. The profile repository itself is not listed.
 
 ### Hospital Pharmacy · Desktop Apps
 
 - [**addict-order**](https://github.com/suradet-ps/addict-order) - Read-only HOSxP document builder for Thai Category 2 narcotic and psychotropic prescriptions (Tauri 2 + Leptos). ![](https://img.shields.io/github/languages/top/suradet-ps/addict-order?style=flat-square)
 - [**allerx**](https://github.com/suradet-ps/allerx) - Check a patient's medication history against HOSxP before an allergy assessment. ![](https://img.shields.io/github/languages/top/suradet-ps/allerx?style=flat-square)
 - [**balance**](https://github.com/suradet-ps/balance) - Unify HOSxP and INVS into a single desktop dashboard. ![](https://img.shields.io/github/languages/top/suradet-ps/balance?style=flat-square)
+- [**drug-ya**](https://github.com/suradet-ps/drug-ya) - Read-only HOSxP OPD medication review covering allergies, labs, renal function, and pregnancy. ![](https://img.shields.io/github/languages/top/suradet-ps/drug-ya?style=flat-square)
 - [**drugitems**](https://github.com/suradet-ps/drugitems) - Read-only desktop app verifying the MySQL drugitems table against an exported spreadsheet snapshot. ![](https://img.shields.io/github/languages/top/suradet-ps/drugitems?style=flat-square)
 - [**er-refill**](https://github.com/suradet-ps/er-refill) - Read-only desktop app generating the daily ER drug requisition sheet from out-of-hours HOSxP usage. ![](https://img.shields.io/github/languages/top/suradet-ps/er-refill?style=flat-square)
 - [**had-tracer**](https://github.com/suradet-ps/had-tracer) - Read-only clinical tracer linking high-alert drug orders, laboratory results, and process gaps from HOSxP. ![](https://img.shields.io/github/languages/top/suradet-ps/had-tracer?style=flat-square)
