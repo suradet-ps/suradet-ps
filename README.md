@@ -57,7 +57,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 ## Projects
 
-> A curated list of all 94 project repositories, grouped by category and sorted A-Z. The profile repository itself is not listed.
+> A curated list of all 96 project repositories, grouped by category and sorted A-Z. The profile repository itself is not listed.
 
 ### Hospital Pharmacy · Desktop Apps
 
@@ -169,6 +169,7 @@ const ME: CurrentFocus = CurrentFocus {
 
 - [**config-parser-mini-tool**](https://github.com/suradet-ps/config-parser-mini-tool) - Mini config parser - Rust variables & mutability practice. ![](https://img.shields.io/github/languages/top/suradet-ps/config-parser-mini-tool?style=flat-square)
 - [**detrix**](https://github.com/suradet-ps/detrix) - Dynamic portfolio showcasing works, innovations, and speaker experiences. ![](https://img.shields.io/github/languages/top/suradet-ps/detrix?style=flat-square)
+- [**fishing-notes**](https://github.com/suradet-ps/fishing-notes) - Thai-first fishing notes from Japanese pro-angler videos — seabass, bass, eging, and tenya. ![](https://img.shields.io/github/languages/top/suradet-ps/fishing-notes?style=flat-square)
 - [**herbs-app-images**](https://github.com/suradet-ps/herbs-app-images) - Image assets for Herbs App. ![](https://img.shields.io/github/languages/top/suradet-ps/herbs-app-images?style=flat-square)
 - [**my-chat-app**](https://github.com/suradet-ps/my-chat-app) - Feature-rich, real-time chat application. ![](https://img.shields.io/github/languages/top/suradet-ps/my-chat-app?style=flat-square)
 - [**ptc-ha2026**](https://github.com/suradet-ps/ptc-ha2026) - Fifteen-minute presentation deck for the hospital's medication system against HA Standard 6 - one key message per slide. ![](https://img.shields.io/github/languages/top/suradet-ps/ptc-ha2026?style=flat-square)
@@ -177,10 +178,11 @@ const ME: CurrentFocus = CurrentFocus {
 
 - [**awesome-leptos**](https://github.com/suradet-ps/awesome-leptos) - Fork of [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos). ![](https://img.shields.io/github/languages/top/suradet-ps/awesome-leptos?style=flat-square)
 - [**awesome-rust**](https://github.com/suradet-ps/awesome-rust) - Fork of [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust). ![](https://img.shields.io/github/languages/top/suradet-ps/awesome-rust?style=flat-square)
+- [**berkkong**](https://github.com/suradet-ps/berkkong) - Fork of [achiraya-ar/berkkong](https://github.com/achiraya-ar/berkkong) — ระบบเบิกพัสดุและเวชภัณฑ์ที่มิใช่ยา. ![](https://img.shields.io/github/languages/top/suradet-ps/berkkong?style=flat-square)
 - [**ot-form**](https://github.com/suradet-ps/ot-form) - Fork of [achiraya-ar/ot-form](https://github.com/achiraya-ar/ot-form). ![](https://img.shields.io/github/languages/top/suradet-ps/ot-form?style=flat-square)
-- [**RustBooks**](https://github.com/suradet-ps/RustBooks) - Fork of [sger/RustBooks](https://github.com/sger/RustBooks). ![](https://img.shields.io/github/languages/top/suradet-ps/RustBooks?style=flat-square)
 - [**rust-user-map**](https://github.com/suradet-ps/rust-user-map) - Fork of [Andrew-Velox/rust-user-map](https://github.com/Andrew-Velox/rust-user-map). ![](https://img.shields.io/github/languages/top/suradet-ps/rust-user-map?style=flat-square)
 - [**rust-web-framework-comparison**](https://github.com/suradet-ps/rust-web-framework-comparison) - Fork of [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison). ![](https://img.shields.io/github/languages/top/suradet-ps/rust-web-framework-comparison?style=flat-square)
+- [**RustBooks**](https://github.com/suradet-ps/RustBooks) - Fork of [sger/RustBooks](https://github.com/sger/RustBooks). ![](https://img.shields.io/github/languages/top/suradet-ps/RustBooks?style=flat-square)
 - [**snapherb**](https://github.com/suradet-ps/snapherb) - Fork of [achiraya-ar/snapherb](https://github.com/achiraya-ar/snapherb). ![](https://img.shields.io/github/languages/top/suradet-ps/snapherb?style=flat-square)
 - [**start-trunk**](https://github.com/suradet-ps/start-trunk) - Fork of [leptos-rs/start-trunk](https://github.com/leptos-rs/start-trunk). ![](https://img.shields.io/github/languages/top/suradet-ps/start-trunk?style=flat-square)
 - [**this-week-in-rust**](https://github.com/suradet-ps/this-week-in-rust) - Fork of [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust). ![](https://img.shields.io/github/languages/top/suradet-ps/this-week-in-rust?style=flat-square)
